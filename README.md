@@ -29,3 +29,10 @@ The notebook uses Amazon product review data. Please ensure that you have the da
 ## License
 
 This project is licensed under the MIT License.
+
+## Results
+◦ Conducted sentiment analysis on product reviews to classify them as positive or negative.
+◦ Implemented text pre-processing using NLTK and SpaCy for tokenization, stop words removal, and lemmatization.
+◦ Applied Logistic Regression, Random Forest, Decision Tree, Naive Bayes, achieving 85.4% accuracy with Logistic.
+◦ Applied DL (RNN, LSTM, Bi-RNN, Bi-LSTM) using Word2Vec with Gensim, achieving 85.6% accuracy with LSTM.
+◦ Employed a fine-tuned BERT model transformer from Hugging Face, achieving 90% accuracy in sentiment analysis.
